@@ -7,12 +7,12 @@ This project performs an Exploratory Data Analysis (EDA) on Airbnb listings in N
 
 The analysis explores:
 
-1. Price distribution and removal of extreme outliers.
-2. Neighbourhood group-wise trends and their impact on pricing.
-3. Room type comparisons (Entire home/apt, Private room, Shared room).
-4. Availability patterns to understand seasonality and occupancy potential.
-5. Review patterns and their relationship with pricing and demand.
-6. Geospatial distribution of listings across NYC. 
+-  Price distribution and removal of extreme outliers.
+-  Neighbourhood group-wise trends and their impact on pricing.
+-  Room type comparisons (Entire home/apt, Private room, Shared room).
+-  Availability patterns to understand seasonality and occupancy potential.
+-  Review patterns and their relationship with pricing and demand.
+-  Geospatial distribution of listings across NYC. 
 
 We use libraries like **Pandas, Numpy, Matplotlib and Seaborn**for cleaning, visualization, and analysis. 
 
@@ -142,28 +142,14 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 
 
-## Recommendations
-- **For Guests**: 
-   - Look for listings with high availability and good reviews for a better experience.
-   - **Private rooms** in Brooklyn offer affordable stays compared to Manhattan.
+## Recommendations and Conclusion
 
-- **For Hosts**:  
-   - Improve **availability** and **review response rates** to attract more bookings.
-   - Manage pricing effectively to compete within the borough's market.
+-  Implement dynamic pricing models based on neighbourhood, room type, and seasonality.
+-  Identify and regulate price outliers to remain competitive.
+-  Encourage hosts to maintain year-round availability to maximize occupancy.
+-  Promote private rooms in high-cost areas to capture price-sensitive travelers and position entire homes as premium offerings.
 
----
-
-## Future Work
-- Use **machine learning** to predict prices based on room type and location.
-- Perform **sentiment analysis** on reviews to better understand guest experiences.
-- Create an **interactive dashboard** using Plotly or Tableau for live monitoring.
-
----
-
-## Conclusion
-This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
-
----
+By leveraging these insights, Airbnb can increase booking rates, improve host engagement, and enhance customer satisfaction, ultimately leading to optimized revenue growth.
 
 
 ---
