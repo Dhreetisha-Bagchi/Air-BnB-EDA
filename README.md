@@ -2,7 +2,7 @@
 
 ---
 
-## Project Overview
+## 🎯Project Overview
 This project performs an Exploratory Data Analysis (EDA) on Airbnb listings in New York City (2024) to identify trends, patterns, and actionable insights that can support data-driven business decisions.
 
 The analysis explores:
@@ -20,12 +20,10 @@ We use libraries like **Pandas, Numpy, Matplotlib and Seaborn**for cleaning, vis
 
 ---
 
-## Business Problem Statement
+## 📌Business Problem
 
-*Problem:*
 Airbnb’s management team wants to **optimize pricing and availability strategies to increase revenue** while maintaining customer satisfaction in New York City. However, they currently lack insights into how neighbourhood location, room type, availability, and reviews impact price and demand.
 
-*Business Goal:*
 Analyze Airbnb listings to identify:
 1. Which neighbourhood groups and room types yield the highest revenue potential.
 2. The relationship between reviews, availability, and pricing.
@@ -34,7 +32,7 @@ Analyze Airbnb listings to identify:
 
 ---
 
-## Dataset
+## 📊Dataset Overview
 The dataset contains **20,765 entries and 22 features**, including:
 - **id**: Unique identifier for each listing  
 - **name**: Title of the Airbnb listing  
