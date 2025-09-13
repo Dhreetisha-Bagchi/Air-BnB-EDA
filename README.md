@@ -16,7 +16,7 @@ The analysis explores:
 
 We use libraries like **Pandas, Numpy, Matplotlib and Seaborn**for cleaning, visualization, and analysis. 
 
-![](https://github.com/Dhreetisha-Bagchi/Air-Bnb-EDA/blob/main/New%20York%20City%20Brooklyn%20Bridge.jpg)
+![](https://github.com/Dhreetisha-Bagchi/Air-BnB-EDA/blob/main/AirBnB.jpg)
 
 ---
 
